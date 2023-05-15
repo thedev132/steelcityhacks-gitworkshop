@@ -1,5 +1,5 @@
 # steelcityhacks-gitworkshop
-Git &amp; collaborative coding workshop for Steel City Hacks: Winter Hack 2022!
+Git &amp; collaborative coding workshop for Steel City Hacks: Spring Hack 2023!
 
 Steps for the worskhop:
 - Create a GitHub account
